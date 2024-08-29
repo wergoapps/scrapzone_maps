@@ -1,1 +1,1 @@
-# scrapzone
+# maps for scrapzone.fun
